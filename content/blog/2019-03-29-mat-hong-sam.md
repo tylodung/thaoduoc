@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Trà sơn mật hồng sâm
-twitter_large: true
-image: hong-sam.jpg
-custom_excerpt: Trà sơn mật hồng sâm gồm 4 vị thảo dược cho hương vị thơm ngon.
+author: [doanbinh]
 ---
 
 Thời gian gần đây mọi người thường nhắc đến một loại trà đặc biệt có mùi vị thơm ngon, theo mọi người đây là một loại trà mới xuất hiện tại thị trường Việt Nam đó là trà sơn mật (Trà hồng sâm). sản phẩm được kết hợp từ những thảo dược thiên nhiên có tác dụng thưởng thức và trị bệnh

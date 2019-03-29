@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Tấm Lòng Son
+                Thần Y Tái Thế
               </h1>
               <p
                 css={{
@@ -114,7 +114,7 @@ class Home extends Component {
                     fontSize: 30,
                   },
                 }}>
-                Hỡi Thế Gian... Tình Là Chi
+                Hoa Đà Giáng Trần
               </p>
               <Flex
                 valign="center"

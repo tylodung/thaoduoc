@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Củ Tam Thất
-twitter_large: true
-image: cu-tam-that.jpg
-custom_excerpt: Củ tam thất thường được sử dụng để cầm máu, hoạt huyết, hỗ trợ bệnh ung thư, chữa đau nhức hiệu quả.
+author: [doanbinh]
 ---
 
 Củ tam thất hay người ta gọi là sâm tam thất cây thuốc được sử dụng rộng rãi trong nhân dân, tam thất là loại dược liệu rất quý có tác dụng cầm máu tốt cho phụ nữ sau sinh phòng tránh hậu sản, củ tam thất sử dụng tiềm gà, dùng phòng tránh bệnh rất tốt.
