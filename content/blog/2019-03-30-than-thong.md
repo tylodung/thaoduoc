@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Cây thần thông
-twitter_large: true
-image: cay-than-thong.jpg
-custom_excerpt: Dây thần thông dùng chữa đau vai gáy, mất ngủ, đau nhức xương khớp hiệu quả.
+author: [doanbinh]
 ---
 
 Cây thần thông được sử dụng chữa bệnh đau đầu, mất ngủ kinh niên cây được thu  hái trong rừng về chặt nhỏ phơi khô để sử dụng dần, địa chỉ bán dây thần thông

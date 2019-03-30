@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Sâm Bổ Chính
-twitter_large: true
-image: sambochinh.jpg
-custom_excerpt: Sâm bố chính có tác dụng bổ không thua kem sâm hàn quốc, sâm bổ chính được sử dụng nhiều trong các bài thuốc hay ngâm rượu để sử dụng rất hiệu quả.
+author: [doanbinh]
 ---
 
 Sâm Bổ Chính còn gọi là sâm thổ hào, sâm báo, nhân sâm Phú yên, có tên khoa học là Hibiscus sagittifolius Kurz, thuộc họ bông – Malvaceae.
