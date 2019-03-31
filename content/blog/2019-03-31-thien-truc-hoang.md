@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Thiên Trúc Hoàng
-twitter_large: true
-image: thientruc.jpg
-custom_excerpt: Thiền trúc hoàng được lấy từ trên cây tre, nứa bị cút qua nhiều năm tháng hình thành.
+author: [doanbinh]
 ---
 
 Thiên Trúc Hoàng Nguồn gốc: Cặn silic lắng đọng lại trong các gióng cây tre hoặc nứa già (Bambusa sp.), họ Lúa (Poaceae)

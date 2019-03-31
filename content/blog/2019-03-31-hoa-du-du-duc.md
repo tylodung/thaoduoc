@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Hoa Đu Đủ Đực
-twitter_large: true
-image: du-duc.jpg
-custom_excerpt: Hoa đu đủ đực chữa bệnh ung thư hay thường gọi bông đu đủ đực.
+author: [doanbinh]
 ---
 
 Hoa đu đủ đực thường được thu hoạch trong rừng mới có số lượng, đu đủ đực người ta không trồng mà tự nhiên cây đang có quả do một nguyên nhân nào đó cây không ra quả mà ra nhiều hoa đực một lúc
