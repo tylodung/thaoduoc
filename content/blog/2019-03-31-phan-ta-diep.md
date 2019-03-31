@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Cây phan tả diệp
-twitter_large: true
-image: cayphantadiep.jpg
-custom_excerpt: Phan tả diệp chữa bệnh tao bón hiệu quả, phan tả diệp có tác dụng giải độc gan, sổ độc gan, phan tả diệp sử dụng thường kết hợp với ngũ vị tử chữa bệnh gan.
+author: [doanbinh]
 ---
 
 Phan tả diệp, tác dụng cây phan tả diệp, địa chỉ bán phan tả diệp chữa bệnh táo bón, bệnh gan Phan Tả Diệp   tên khoa học ( Folium Sennae) Cây Phan Tả Diệp được trồng nhiều ở miên trung.

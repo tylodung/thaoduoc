@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Quả cây trâu cổ
-twitter_large: true
-image: caytrauco.jpg
-custom_excerpt: Cây trâu cổ một vị thuốc quý có tác dụng chữa đau nhức, liệt dương, tắc tia sữa.
+author: [doanbinh]
 ---
 
 Cây thường mọc hoang trong tự nhiên có ở hầu hết các tỉnh thành, cây thuốc có tác dụng chữa yếu sinh lý, liệt dương, chữa tắc tia sữa, đau nhức xương khớp.

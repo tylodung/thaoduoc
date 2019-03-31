@@ -2,9 +2,7 @@
 published: true
 hidden: false
 title: Kim Tiền Thảo
-twitter_large: true
-image: kim-tien-thao.jpg
-custom_excerpt: Cây kim tiền thảo, tác dụng cây kim tiền thảo, địa chỉ bán cây kim tiền thảo, sử dụng Cây kim tiền thảo chữa sỏi thận hiệu quả.
+author: [doanbinh]
 ---
 
 Cây kim tiền thảo là loại cây mọc hoang dại dược con người sử dụng làm thuốc chữa bệnh rất hiệu quả, kim tiền thảo đặc biệt được các công ty sản xuất dược liệu thu mua với số lượng lớn, cây thường mọc quanh các đồi núi, vách đá, nơi có đất cát.

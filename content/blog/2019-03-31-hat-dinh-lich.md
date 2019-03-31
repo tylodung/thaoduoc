@@ -2,14 +2,12 @@
 published: true
 hidden: false
 title: Hạt đình lịch
-twitter_large: true
-image: dinh-lich.jpg
-custom_excerpt: Hạt đình lịch thường gọi là đỉnh lịch tử loại thảo dược khi ngâm nước nở ra dạng dung dịch dùng đắp mặt nạ trị mụn nhọt, mụn trứng cá rất hiệu quả.
+author: [doanbinh]
 ---
 
 Hạt đình lịch dùng làm mặt nạ Đình lịch trị mụn nhọt hiệu quả, hạt đình lịch đắp mặt nạ là loại thảo dược đang sốt nhất hiện nay.
 
-Hạt đình lích làm sạch 30% ngay lần đắp mặt nạ lần đầu tiên.
+Hạt đình lịch làm sạch 30% ngay lần đắp mặt nạ lần đầu tiên.
 
 Đây là cách làm đẹp bằng thảo dược tự nhiên, sách mụn nhọt, trên gia mặt
 
