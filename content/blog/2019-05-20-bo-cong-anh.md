@@ -5,17 +5,19 @@ title: Rễ Cây Bồ Công Anh
 author: [doanbinh]
 ---
 
-Cây bồ công anh mọc hoang ở nhiều nơi cây bồ công anh được bán tại búp xanh là cây được thu hái ở miền trung, toàn bộ cây được sử dụng làm thuốc thân và lá có giá rẻ hơn còn rễ thì giá cao hơn. thân lá trước đây thường dùng để chữa tắc tia sữa, máu nhiễu mỡ.. mới đây người ta đã tìm ra thành phần kháng ung thư máu từ rễ cây bồ công anh.
+Cây bồ công anh mọc hoang ở nhiều nơi cây bồ công anh được bán tại búp xanh là cây được thu hái ở miền trung, toàn bộ cây được sử dụng làm thuốc thân và lá có giá rẻ hơn còn rễ thì giá cao hơn. 
+
+Thân lá trước đây thường dùng để chữa tắc tia sữa, máu nhiễu mỡ.. mới đây người ta đã tìm ra thành phần kháng ung thư máu từ rễ cây bồ công anh.
 
 Rễ cây bồ công anh được dùng chữa bệnh ung bướu, Rễ bồ công anh tác dụng chữa ung thư máu
 
 Cây bồ công anh Việt Nam còn gọi là rau bồ cóc, diếp hoang, diếp dại, mũi mác, rau lưỡi cày.
 
-Mô tả cây thuốc bồ công anh
+**Mô tả cây thuốc bồ công anh**
 
 Là loại cây nhỏ sống hàng năm, thường cao khoảng 1 – 3 m, thân mọc thẳng, nhẵn, không cành hoặc rất ít cành. Lá cây có nhiều hình dạng, lá và thân có nhựa màu trắng như sữa, vị hơi đắng. Hoa màu vàng hoặc tím.
 
-Phân bố, thu hái và chế biến
+**Phân bố, thu hái và chế biến**
 
 Bồ công anh mọc hoang tại nhiều tỉnh miền Bắc nước ta.
 
@@ -23,17 +25,17 @@ Bồ công anh mọc hoang tại nhiều tỉnh miền Bắc nước ta.
 
 Thường thì nhân dân ta hái lá về dùng tươi hay phơi hoặc sấy khô để dùng dần, không cần chế biến gì đặc biệt.
 
-Tác dụng rễ bồ công anh
+**Tác dụng rễ bồ công anh**
 
 Bồ công anh Việt Nam là một cây vị thuốc kinh nghiệm trong nhân dân để chữa bệnh sưng vú, tắc tia sữa.
 
-Rễ cây còn có tác dụng ức chế sự phát triển của khối U, thường dùng để hỗ trợ điều trị bệnh Ung thư
+Rễ cây còn có tác dụng ức chế sự phát triển của khối U, thường dùng để hỗ trợ điều trị bệnh Ung thư.
 
 Thường được kết hợp với các cây thuốc nam khác để chữa bệnh đau dạ dày, ăn uống kém tiêu.
 
 Ngoài ra cây còn được dùng để chữa mụn nhọt đang sưng mủ, hay bị mụn nhọt,
 
-Đối tượng sử dụng rễ bồ công anh
+**Đối tượng sử dụng rễ bồ công anh**
 
 Người bị đau dạ dày
 
@@ -41,9 +43,9 @@ Phụ nữ bị tắc tia sữa
 
 Bệnh nhân Ung thư, đặc biệt ung thư máu
 
-Người mắc bệnh đường ruột, tiêu hóa kém
+Người mắc bệnh đường ruột, tiêu hóa kém.
 
-Liều dùng
+**Liều dùng**
 
 Liều dùng hàng ngày khoảng 20-40 g lá tươi hoặc 10-15 g lá khô (hay cành và lá khô).
 
@@ -53,7 +55,6 @@ Ta có thể dùng riêng hoặc phối hợp với các vị thuốc khác như
 
 Nếu dùng giã nát đắp ngoài thì không kể liều lượng.
 
-Đơn thuốc có vị rễ bồ công anh
 
 Hỗ trợ điều trị Ung thư: Rễ bồ công anh 20g, cây xạ đen 40g sắc với 1 lít nước uống hàng ngày
 
@@ -66,4 +67,4 @@ Uống liên tục trong vòng 10 ngày, sau đó nghỉ 3 ngày rồi uống ti
 
 Cây bồ công anh có tác dụng trị ung thư máu hiệu quả, kết hợp với cây dừa cạn 50g  hoa kim châm hiểu quả cao
 
-Bồ công anh được kết hợp với cây dừa cạn có tác dụng ức chế và chữa bệnh ung thư máu rất hiệu quả, theo kinh nghiệm có thể sử dụng sâm đại hành và cây hoa kim châm
+Bồ công anh được kết hợp với cây dừa cạn có tác dụng ức chế và chữa bệnh ung thư máu rất hiệu quả, theo kinh nghiệm có thể sử dụng sâm đại hành và cây hoa kim châm.
