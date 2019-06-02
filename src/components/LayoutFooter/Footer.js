@@ -72,10 +72,10 @@ const Footer = ({layoutHasSidebar = false}) => (
               href="http://thaoam.com"
               target="_blank"
               rel="noopener">
-              Thảo Am
+              Lương Y
             </ExternalFooterLink>
             <ExternalFooterLink
-              href="http://trasuaphuquoc.com"
+              href="http://ngoichuaxua.com"
               target="_blank"
               rel="noopener">
               Ngôi Chùa Xưa
