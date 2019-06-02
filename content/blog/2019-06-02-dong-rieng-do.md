@@ -5,7 +5,7 @@ title: Cây dong riềng đỏ
 author: [doanbinh]
 ---
 
-Cây dong riềng đỏ chữa bệnh tim mạch, mạch vàng, dong riềng đỏ còn được gọi khoai đao, khương vu là một trong nhữn loại cây được trồng phổ biến ở vùng nông thôn nước ta
+Cây dong riềng đỏ chữa bệnh tim mạch, mạch vàng, dong riềng đỏ còn được gọi khoai đao, khương vu là một trong nhữn loại cây được trồng phổ biến ở vùng nông thôn nước ta.
 
 Cây dong riềng được trổng chủ yếu thu hoạch củ để phục vụ cho sản xuất miến dong và dùng để chăn nuôi, ngày nay dong riềng đỏ đươc sử dụng để chữa bệnh tim mạch khá hiệu quả.
 
@@ -28,5 +28,3 @@ Cách sử dụng Cây Dong Riềng Đỏ chữa bệnh tim mạch rất đơn g
 Trên thế giới hiếm cây thuốc nào chữa bệnh tim mà tích hợp được 7 trong 1 như cây dong riềng đỏ. Vì nó vừa chữa suy tim; hạ huyết áp; điều hoà nhịp tim; giãn vi mạch vành; giảm đau ngực nhanh; làm sạch lòng mạch vành và vừa an thần. Chỉ cần độc vị dong riềng đỏ, bất kể là lá, hay thân hoặc củ đã sao thơm nấu với tim lợn đều có thể chữa bệnh.
 
 Trên thị trường củ dong riềng thì rất nhiều nhưng dong riềng đỏ thì hiếm hơn một chút.
-
-Dong riềng đỏ thường kết hợp với đẳng sâm để có công dụng chữa bệnh hiệu quả hơn đối với bệnh tim mạch, đây là là loại dược liệu quá tuyệt vời cho bệnh tim mạch
