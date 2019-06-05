@@ -7,17 +7,17 @@ author: [doanbinh]
 
 Sâm Bổ Chính còn gọi là sâm thổ hào, sâm báo, nhân sâm Phú yên, có tên khoa học là Hibiscus sagittifolius Kurz, thuộc họ bông – Malvaceae.
 
-Tên bố chính vì một y gia Việt Nam sử dụng cây này đầu tiên ở huyện Bố Trạch thuộc  tỉnh Quãng Bình.
+Tên bố chính vì một y gia Việt Nam sử dụng cây này đầu tiên ở huyện Bố Trạch thuộc tỉnh Quãng Bình.
 
 Lúc đầu Sâm Bổ Chính chỉ dùng để chỉ rễ một cây cùng loại nhưng nhỏ, có rễ nhỏ, còn loại ta đang dùng gọi là sâm thổ hào nhưng nay quen gọi là sâm bố chính.
 
-1.Mô tả cây sâm bố chính Hoa, lá, rễ sâm bố chính
+**Mô tả cây sâm bố chính Hoa, lá, rễ sâm bố chính**
 
-Sâm Bổ Chính là loại cây thân thảo sống dai, mọc đứng một cách yếu ớt, có khi dựa vào các cây xung quanh, cao chừng 1 m hay hơn. Rễ mẫm màu trắng nhạt hoặc vàng nhạt, có đường kính 1,5 – 2cm, nhiều rễ có hình người trông rất giống nhân sâm. Lá ở phía gốc cây hình trái xoan, phần cuối phiến lá hình tim hay hình mũi tên, đầu phiến lá không nhọn. Các lá ở phía ngọn càng lên trên càng hẹp. Mặt lá có lông đơn hay hình sao. Hoa màu hồng hay đỏ, phớt vàng, mọc đơn độc ở kẽ lá, đường kính tới 8cm.
+Sâm Bổ Chính là loại cây thân thảo sống dai, mọc đứng một cách yếu ớt, có khi dựa vào các cây xung quanh, cao chừng 1m hay hơn. Rễ mẫm màu trắng nhạt hoặc vàng nhạt, có đường kính 1,5 – 2cm, nhiều rễ có hình người trông rất giống nhân sâm. Lá ở phía gốc cây hình trái xoan, phần cuối phiến lá hình tim hay hình mũi tên, đầu phiến lá không nhọn. Các lá ở phía ngọn càng lên trên càng hẹp. Mặt lá có lông đơn hay hình sao. Hoa màu hồng hay đỏ, phớt vàng, mọc đơn độc ở kẽ lá, đường kính tới 8cm.
 
 Cuống hoa dài 5 – 8cm, có lông cứng, hơi phồng đầu. Tiểu đài cấu tạo bởi 7 – 10 bộ phận, dài 12 – 14mm, có lông tua tủa, đài hoa hình túi, ở ngọn có vài răng nhỏ, đài rách ra và rụng sớm, 5 cánh hoa dài 5-6cm, rộng 3-4cm ở ngọn. Nhiều nhị hàn liền với nhau thành một cột. Bao phấn phủ cột đỏ đến tận gốc. Bầu có lông, 5 vòi, có tuyến. Quả hình trứng nhọn, dài gấp 3 lần tiểu đài, ngoài mặt có lông, khi chín, quả nứt thành 5 mảnh vỏ, mặt trong và mặt ngoài đều có lông. Hạt hình thận, màu nâu, ngoài mặt có những đường vân rất sít nhau thành những gợn hay những ụ màu vàng.
 
-2. Phân bố, thu hái và chế biến sâm bố chính
+**Phân bố, thu hái và chế biến sâm bố chính**
 
 Sâm Bổ Chính  mọc hoang và được trồng ở nhiều nơi ở Việt Nam. Miền Bắc có nhiều nhất ở các vùng núi huyện Nam Đàn, Thanh Chương, Hương Sơn (Nghệ An, Hà Tỉnh). Một vài địa phương thuộc Quảng Bình, Hòa Bình và Tây Bắc.
 
@@ -31,9 +31,9 @@ Có người lại nói sâm báo ở Thanh Hóa là tên khác của sâm bố 
 
 - Có nơi đào rễ về, cắt bỏ thân cạo sạch vỏ ngoài, ngày phơi đêm sấy cho thật khô.
 
- - Cũng có nơi đào rễ về, cắt bỏ thân và rễ con, rửa sạch ngâm vào nước phèn chua hai ngày hai đêm (cứ 10 kg rễ dùng 300g phèn chua tán nhỏ, hòa tan vào nước lã). Rửa sạch phơi nắng hay sấy khô.
+- Cũng có nơi đào rễ về, cắt bỏ thân và rễ con, rửa sạch ngâm vào nước phèn chua hai ngày hai đêm (cứ 10 kg rễ dùng 300g phèn chua tán nhỏ, hòa tan vào nước lã). Rửa sạch phơi nắng hay sấy khô.
 
- - Có người cầu kỳ lại ngâm thêm nước gừng, gấc và đường cho thêm màu đỏ, vị cay và vị ngọt nhưng không cần thiết.
+- Có người cầu kỳ lại ngâm thêm nước gừng, gấc và đường cho thêm màu đỏ, vị cay và vị ngọt nhưng không cần thiết.
 
 Đào rễ cẩn thận để khỏi thương tổn rễ. Sau đó cắt bỏ thân và đầu rễ. Có khi cắt bỏ cả rễ chính nếu xơ quá.
 
@@ -43,7 +43,7 @@ Tất cả công việc trên phải tiến hành hết sức mau, nhất là th
 
 Do việc cạo vỏ ngoài tốn nhiều công phu quá cho nên năm 1940. Viện nghiên cứu cây thuốc VILAR Liên Xô cũ có nghiên cứu so sánh và đi đến kết luận là không cần thiết cạo vỏ mỏng.
 
-3. Sâm bố chính và công dụng chữa bệnh
+**Sâm bố chính và công dụng chữa bệnh**
 
 Sâm Bổ Chính có vị ngọt nhạt, có chất nhầy, tính bình; có tác dụng bổ mát, nhuận phế, dưỡng tâm, sinh tân dịch; sao với gạo thì tính ấm bổ tỳ vị, giúp tiêu hoá, thêm mạnh sức. Ở Trung Quốc, người ta xem rễ, lá như có tác dụng tư âm thanh nhiệt, bài nung bạt độc.
 
